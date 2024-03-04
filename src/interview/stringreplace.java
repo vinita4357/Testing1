@@ -9,7 +9,7 @@ import java.util.Date;
 
 public class stringreplace {
 	public static void main(String[] args) {
-		//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 ---access token
+		
 	//	String s="dinida";
 	//	System.out.print(s.trim());
 		//System.out.print(s.replace('d', 'f'));
